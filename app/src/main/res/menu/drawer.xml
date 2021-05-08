@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/home"
+          android:title="Home"
+          android:icon="@drawable/ic_home"/>
+
+    <item android:id="@+id/mycards"
+          android:title="Cards"
+          android:icon="@drawable/ic_credit_card"
+          android:menuCategory="secondary"/>
+
+    <item android:id="@+id/addcard"
+          android:title="addcard_title"
+          android:icon="@drawable/ic_credit_card_plus"
+          android:menuCategory="secondary"/>
+
+    <!--<item android:id="@+id/upgrade"-->
+          <!--android:title="@string/upgrade_pro"-->
+          <!--android:icon="@drawable/ic_pro"-->
+          <!--android:menuCategory="secondary"/>-->
+
+    <!--<item android:id="@+id/credits"-->
+          <!--android:title="@string/credits"-->
+          <!--android:icon="@drawable/ic_piggy_bank"-->
+          <!--android:menuCategory="secondary"/>-->
+
+    <item android:id="@+id/faq"
+          android:title="faq"
+          android:icon="@drawable/ic_conversation"
+          android:menuCategory="secondary"/>
+
+    <item android:id="@+id/about"
+          android:title="about_us"
+          android:icon="@drawable/ic_info"
+          android:menuCategory="secondary"/>
+
+    <item android:id="@+id/share"
+          android:title="share"
+          android:icon="@drawable/ic_share"
+          android:menuCategory="secondary"/>
+
+    <item android:id="@+id/country"
+          android:title="menu_country"
+          android:icon="@drawable/ic_language"
+          android:menuCategory="secondary"/>
+
+    <item android:id="@+id/logout"
+          android:title="logout"
+          android:icon="@drawable/ic_logout"
+          android:menuCategory="secondary"/>
+</menu>

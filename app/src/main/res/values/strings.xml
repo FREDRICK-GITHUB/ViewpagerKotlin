@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ViewpagerKotlin</string>
+    <string name="main_details">Show Details</string>
+</resources>
